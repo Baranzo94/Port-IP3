@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 0d6f3efda4e6f4ebba59edb5e9022f68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FoodGame - Food - Initial Sketches 2 - Coloured_0
+    21300002: FoodGame - Food - Initial Sketches 2 - Coloured_1
+    21300004: FoodGame - Food - Initial Sketches 2 - Coloured_2
+    21300006: FoodGame - Food - Initial Sketches 2 - Coloured_3
+    21300008: FoodGame - Food - Initial Sketches 2 - Coloured_4
+    21300010: FoodGame - Food - Initial Sketches 2 - Coloured_5
+    21300012: FoodGame - Food - Initial Sketches 2 - Coloured_8
+    21300014: FoodGame - Food - Initial Sketches 2 - Coloured_9
+    21300016: FoodGame - Food - Initial Sketches 2 - Coloured_10
+    21300018: FoodGame - Food - Initial Sketches 2 - Coloured_11
+    21300020: FoodGame - Food - Initial Sketches 2 - Coloured_12
+    21300022: FoodGame - Food - Initial Sketches 2 - Coloured_13
+    21300024: FoodGame - Food - Initial Sketches 2 - Coloured_14
+    21300026: FoodGame - Food - Initial Sketches 2 - Coloured_15
+    21300028: FoodGame - Food - Initial Sketches 2 - Coloured_16
+    21300030: FoodGame - Food - Initial Sketches 2 - Coloured_17
+    21300032: FoodGame - Food - Initial Sketches 2 - Coloured_18
+    21300034: FoodGame - Food - Initial Sketches 2 - Coloured_19
+    21300036: FoodGame - Food - Initial Sketches 2 - Coloured_20
+    21300038: FoodGame - Food - Initial Sketches 2 - Coloured_21
+    21300040: FoodGame - Food - Initial Sketches 2 - Coloured_22
+    21300042: FoodGame - Food - Initial Sketches 2 - Coloured_23
+    21300044: FoodGame - Food - Initial Sketches 2 - Coloured_24
+    21300046: FoodGame - Food - Initial Sketches 2 - Coloured_25
+    21300048: FoodGame - Food - Initial Sketches 2 - Coloured_26
+    21300050: FoodGame - Food - Initial Sketches 2 - Coloured_27
+    21300052: FoodGame - Food - Initial Sketches 2 - Coloured_28
+    21300054: FoodGame - Food - Initial Sketches 2 - Coloured_29
+    21300056: FoodGame - Food - Initial Sketches 2 - Coloured_30
+    21300058: FoodGame - Food - Initial Sketches 2 - Coloured_31
+    21300060: FoodGame - Food - Initial Sketches 2 - Coloured_32
+    21300062: FoodGame - Food - Initial Sketches 2 - Coloured_33
+    21300064: FoodGame - Food - Initial Sketches 2 - Coloured_34
+    21300066: FoodGame - Food - Initial Sketches 2 - Coloured_35
+    21300068: FoodGame - Food - Initial Sketches 2 - Coloured_36
+    21300070: FoodGame - Food - Initial Sketches 2 - Coloured_37
+    21300072: FoodGame - Food - Initial Sketches 2 - Coloured_38
+    21300074: FoodGame - Food - Initial Sketches 2 - Coloured_39
+    21300076: FoodGame - Food - Initial Sketches 2 - Coloured_40
+    21300078: FoodGame - Food - Initial Sketches 2 - Coloured_41
+    21300080: FoodGame - Food - Initial Sketches 2 - Coloured_42
+    21300082: FoodGame - Food - Initial Sketches 2 - Coloured_43
+    21300084: FoodGame - Food - Initial Sketches 2 - Coloured_44
+    21300086: FoodGame - Food - Initial Sketches 2 - Coloured_45
+    21300088: FoodGame - Food - Initial Sketches 2 - Coloured_46
+    21300090: FoodGame - Food - Initial Sketches 2 - Coloured_47
+    21300092: FoodGame - Food - Initial Sketches 2 - Coloured_48
+    21300094: FoodGame - Food - Initial Sketches 2 - Coloured_49
+    21300096: FoodGame - Food - Initial Sketches 2 - Coloured_50
+    21300098: FoodGame - Food - Initial Sketches 2 - Coloured_51
+    21300100: FoodGame - Food - Initial Sketches 2 - Coloured_6
+    21300102: FoodGame - Food - Initial Sketches 2 - Coloured_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 2402, z: 2852, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2497
+        width: 383
+        height: 574
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_1
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2493
+        width: 383
+        height: 578
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_2
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2444
+        width: 398
+        height: 612
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_3
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2425
+        width: 362
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_4
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2521
+        width: 660
+        height: 505
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1651
+        width: 432
+        height: 656
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_13
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1727
+        width: 529
+        height: 446
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_17
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2062
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_18
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 2074
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_22
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 1963
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_25
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1938
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_26
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 1827
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_28
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1788
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_29
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1723
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_30
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1763
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_32
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 938
+        width: 364
+        height: 656
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 819
+        width: 343
+        height: 602
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_35
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1343
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_36
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 823
+        width: 699
+        height: 541
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_37
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 838
+        width: 459
+        height: 492
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_40
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1160
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_42
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1124
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_43
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1125
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_44
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1006
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_45
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 859
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 127
+        width: 416
+        height: 541
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_48
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 121
+        width: 481
+        height: 598
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_49
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_50
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 156
+        width: 674
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_51
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 124
+        width: 330
+        height: 649
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1685
+        width: 480
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_7
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1660
+        width: 496
+        height: 613
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 808
+        width: 430
+        height: 645
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_9
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1702
+        width: 471
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FoodGame - Food - Initial Sketches 2 - Coloured_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 130
+        width: 596
+        height: 479
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
